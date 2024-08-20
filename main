@@ -1,5 +1,3 @@
-#! /bin/env kotlin
-
-fun main(Arg <String>) {
-    println("hello !!!")
+function of() {
+  console.log("hello")
 }

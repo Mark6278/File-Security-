@@ -1,3 +1,7 @@
 function of() {
   console.log("hello")
 }
+
+of()
+
+document.querySelector("p").style.color = "red"
